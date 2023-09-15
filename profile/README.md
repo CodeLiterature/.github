@@ -10,7 +10,7 @@
 -  <p align="left">✨ Currently the personnel is able only develop frontend of sites</p>
 - <p>📚 But we are constantly striving to move forward and do better</p>
 - <p>🎯 Goals: We aspire to learn more and more, understand the world of 1's and 0's and hope to achieve knowledge and fame</p>
-- <p>👩‍💻 The current personnel includes [Shahid](https://github.com/Shahid-Rashid) and [Inayat](https://github.com/inayatbakshi46/)</p>
+- <p>👩‍💻 The current personnel includes (Shahid)[https://github.com/shahidrashid1942] and (Inayat)[https://github.com/inayatbakshi46/]</p>
 - <p>☎️ Contact us through our [email](magitech19@gmail.com) or through our [portfolio-site](https://magi-tech.netlify.app/)</p>
 
 ###
