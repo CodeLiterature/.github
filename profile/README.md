@@ -1,7 +1,7 @@
 -  <h1 align="left">Hello 🤗, What's up?</h1>
 
 ###
--  <p align="left">Magitech is a newly introduced company specialising in Frontend developement.</p>
+-  <p align="left">CodeLiterature is a newly introduced company specialising in Frontend developement.</p>
 
 ###
 - <h2 align="left">About us</h2>
@@ -11,7 +11,7 @@
 - <p>📚 But we are constantly striving to move forward and do better.</p>
 - <p>🎯 Goals: We aspire to learn more and more, understand the world of 1's and 0's and hope to achieve knowledge and fame.</p>
 - <p>👩‍💻 The current personnel includes <a href="https://github.com/shahidrashid1942">SHAHID RASHID</a> and <a href="https://github.com/inayatbakshi46/">INAYAT BAKSHI</a>.</p>
-- <p>☎️ Contact us through our <a href="mailto:magitech19@gmail.com">EMAIL</a> or through our <a href="https://magi-tech.netlify.app/">WEBSITE</a>.</p>
+- <p>☎️ Contact us through our <a href="mailto:codeliterature1@gmail.com">EMAIL</a> or through our <a href="https://codeliterature.netlify.app/">WEBSITE</a>.</p>
 
 ###
 <h2 align="left">We code with</h2>
