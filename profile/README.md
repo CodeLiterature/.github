@@ -12,6 +12,15 @@
 - <p>🎯 Goals: We aspire to learn more and more, understand the world of 1's and 0's and hope to achieve knowledge and fame.</p>
 - <p>👩‍💻 The current personnel includes <a href="https://github.com/shahidrashid1942">SHAHID RASHID</a> and <a href="https://github.com/inayatbakshi46/">INAYAT BAKSHI</a>.</p>
 - <p>☎️ Contact us through our <a href="mailto:codeliterature1@gmail.com">EMAIL</a> or through our <a href="https://codeliterature.netlify.app/">WEBSITE</a>.</p>
+###
+
+## 🔗 Social Links
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codeliterature.netlify.app)
+[![Instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeliterature)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeliterature)
+[![twitter](https://img.shields.io/badge/fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/codeliterature)
+[![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codeliterature1@gmail.com)
+
 
 ###
 <h2 align="left">🛠️ We code with</h2>
